@@ -33,6 +33,14 @@
 .simple .ccpages_more a {
   text-decoration: none;
 }
+
+.simple .ccsubpages {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 2px solid #999;
+  padding: .5em;
+}
 /* End of Simple skin */
 /* Red skin */
 .ccred .ccchildpage {
@@ -65,6 +73,13 @@
 }
 .ccred .ccpages_more a {
   text-decoration: none;
+}
+.ccred .ccsubpages {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 2px solid #f99;
+  padding: .5em;
 }
 /* End of Red skin */
 /* Blue skin */
@@ -99,6 +114,13 @@
 .ccblue .ccpages_more a {
   text-decoration: none;
 }
+.ccblue .ccsubpages {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 2px solid #99f;
+  padding: .5em;
+}
 /* End of Blue skin */
 /* Green skin */
 .ccgreen .ccchildpage {
@@ -131,5 +153,12 @@
 }
 .ccgreen .ccpages_more a {
   text-decoration: none;
+}
+.ccgreen .ccsubpages {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 2px solid #9f9;
+  padding: .5em;
 }
 /* End of Green skin */
