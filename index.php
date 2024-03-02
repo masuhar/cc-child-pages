@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: CC Child Pages
+Plugin Name: CC Child Pages X
 Plugin URI: http://ccchildpages.ccplugins.co.uk/
-Description: Show links to child pages
-Author: Caterham Computing
+Description: Show links to child pages with timestamps
+Author: Caterham Computing (with modifications by Hidehiko Masuhara)
 Text Domain: cc-child-pages
 Domain Path: /languages
 Version: 1.45
