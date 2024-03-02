@@ -343,6 +343,9 @@ class ccchildpages
 				'exclude'		=> $a['exclude'],
 				'sort_order'	=> $order,
 				'sort_column'	=> $orderby,
+				'show_date'     => $show_date_created  ? 'created'
+                                : ($show_date_modified ? 'modified' 
+                                                       : ''),
 			);
 
 			if (is_array($post_status) || $post_status != '') $args['post_status'] = $post_status;
